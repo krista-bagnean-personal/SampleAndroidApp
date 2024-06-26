@@ -83,7 +83,7 @@ preBuild.dependsOn 'getLiveUpdate'
 
 tasks.register('getLiveUpdate') {
     doLast {
-        String appId = "d614bf3b"
+        String appId = "b4d92853"
         String channel = "PRODUCTION"
         String portalName = "first_portal_id"
 
